@@ -5,4 +5,6 @@ package com.example.normagarcia.borrar1;
  */
 
 public class AA {
+    public AA() {
+    }
 }
