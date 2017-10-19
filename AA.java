@@ -7,4 +7,9 @@ package com.example.normagarcia.borrar1;
 public class AA {
     public AA() {
     }
+
+    @Override
+    public String toString() {
+        return "AA{}";
+    }
 }
